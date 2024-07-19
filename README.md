@@ -1,3 +1,8 @@
+# Print app food com Tailwind
+
+![1721352825648](https://github.com/user-attachments/assets/b5420918-7705-4286-b301-0395fd6e9ed7)
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
